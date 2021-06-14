@@ -1,0 +1,211 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/b0WmHGc8LHTdGCVzxRb3IBMur57.jpg",
+      "first_air_date": "2021-03-19",
+      "genre_ids": [
+        10765,
+        10759,
+        18,
+        10768
+      ],
+      "id": 88396,
+      "name": "The Falcon and the Winter Soldier",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Falcon and the Winter Soldier",
+      "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+      "popularity": 5109.433,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+      "vote_average": 7.9,
+      "vote_count": 3996
+    },
+    {
+      "backdrop_path": "/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg",
+      "first_air_date": "2017-09-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+      "popularity": 1797.126,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+      "vote_average": 8.6,
+      "vote_count": 7833
+    },
+    {
+      "backdrop_path": "/z59kJfcElR9eHO9rJbWp4qWMuee.jpg",
+      "first_air_date": "2014-10-07",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 60735,
+      "name": "The Flash",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Flash",
+      "overview": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "popularity": 1397.641,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg",
+      "vote_average": 7.7,
+      "vote_count": 7361
+    },
+    {
+      "backdrop_path": "/qZtAf4Z1lazGQoYVXiHOrvLr5lI.jpg",
+      "first_air_date": "2017-01-26",
+      "genre_ids": [
+        9648,
+        18,
+        80
+      ],
+      "id": 69050,
+      "name": "Riverdale",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Riverdale",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "popularity": 968.271,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "vote_average": 8.6,
+      "vote_count": 10995
+    },
+    {
+      "backdrop_path": "/edmk8xjGBsYVIf4QtLY9WMaMcXZ.jpg",
+      "first_air_date": "2005-03-27",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 957.083,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+      "vote_average": 8.2,
+      "vote_count": 5856
+    },
+    {
+      "backdrop_path": "/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg",
+      "first_air_date": "2021-03-26",
+      "genre_ids": [
+        16,
+        10759,
+        18
+      ],
+      "id": 95557,
+      "name": "Invincible",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+      "popularity": 1225.805,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+      "vote_average": 8.9,
+      "vote_count": 638
+    },
+    {
+      "backdrop_path": "/pLG4ihU1d2XkQbASQDjsFu9U7d9.jpg",
+      "first_air_date": "2021-03-24",
+      "genre_ids": [
+        18,
+        80,
+        9648
+      ],
+      "id": 120168,
+      "name": "Who Killed Sara?",
+      "origin_country": [
+        "MX"
+      ],
+      "original_language": "es",
+      "original_name": "¿Quién mató a Sara?",
+      "overview": "Hell-bent on exacting revenge and proving he was framed for his sister's murder, Álex sets out to unearth much more than the crime's real culprit.",
+      "popularity": 749.801,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o7uk5ChRt3quPIv8PcvPfzyXdMw.jpg",
+      "vote_average": 7.8,
+      "vote_count": 314
+    },
+    {
+      "backdrop_path": "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "first_air_date": "2016-01-25",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 796.616,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
+      "vote_average": 8.5,
+      "vote_count": 8236
+    },
+    {
+      "backdrop_path": "/uro2Khv7JxlzXtLb8tCIbRhkb9E.jpg",
+      "first_air_date": "2010-10-31",
+      "genre_ids": [
+        10759,
+        18,
+        10765
+      ],
+      "id": 1402,
+      "name": "The Walking Dead",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Walking Dead",
+      "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+      "popularity": 773.84,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+      "vote_average": 8.1,
+      "vote_count": 10544
+    },
+    {
+      "backdrop_path": "/gmbsR4SvYhhj4SvLAlTKxIkFxp9.jpg",
+      "first_air_date": "2021-02-23",
+      "genre_ids": [
+        10759,
+        10765
+      ],
+      "id": 95057,
+      "name": "Superman & Lois",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Superman & Lois",
+      "overview": "After years of facing megalomaniacal supervillains, monsters wreaking havoc on Metropolis, and alien invaders intent on wiping out the human race, The Man of Steel aka Clark Kent and Lois Lane come face to face with one of their greatest challenges ever: dealing with all the stress, pressures and complexities that come with being working parents in today's society.",
+      "popularity": 756.753,
+      "poster_path": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6SJppowm7cdQgLkvoTlnTUSbjr9.jpg",
+      "vote_average": 8.3,
+      "vote_count": 722
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

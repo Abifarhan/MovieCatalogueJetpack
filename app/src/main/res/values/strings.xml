@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Film</string>
+    <string name="tv_show">Serial</string>
+    <string name="title">Judul</string>
+    <string name="imagedesctiption">imageDesctiption</string>
+    <string name="fav_tv_show">Favorite Tv</string>
+    <string name="fav_movie">Favorite Movie</string>
+    <string name="menu_bookmark">Favorit</string>
+    <string name="undo">Tidak jadi hapus</string>
+    <string name="selamat_datang">Selamat Datang</string>
+</resources>
